@@ -26,6 +26,10 @@
     "cli",
     "replace"
   ],
+  "repository": {
+      "type": "git",
+      "url": "git@github.com:moszeed/rplcr.git"
+  },
   "author": "Michael Röber",
   "license": "MIT"
 }
