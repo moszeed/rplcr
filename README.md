@@ -23,4 +23,5 @@ install from npm
 ## examples
 
 change string in .html and save to a new .html file
+
     rplcr ./test/test.html -f "Test" -t "Test2Test" -o ./test/test2.html
