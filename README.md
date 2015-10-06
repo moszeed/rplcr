@@ -1,6 +1,6 @@
 rplcr
 ===================
-replace text parts over cli
+replace strings in files, with the cli
 
 ## how to get
 install from npm
