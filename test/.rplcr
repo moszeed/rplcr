@@ -1,0 +1,12 @@
+[{
+    "src": "./test/test.html",
+    "dest": "./test/test2.html",
+    "replaceDefinitions": [
+        { "Test": "Test2Test" },
+        { "Test2Test": "Test3Test" },
+        { "Test3Test": "Test4Test" },
+        { "Test4Test": "Test5Test" },
+        { "Test5Test": "Test6Test" },
+        { "Test6Test": "Test7Test" }
+    ]
+}]

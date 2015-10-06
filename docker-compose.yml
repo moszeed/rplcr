@@ -1,0 +1,8 @@
+testing:
+    build: .
+    dockerfile: Dockerfile-Testing
+    volumes:
+    - ./src/index.js:/rplcr/src/index.js
+    - ./test:/rplcr/test
+    - ./package.json:/rplcr/package.json
+    command: npm test
