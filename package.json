@@ -1,7 +1,7 @@
 {
   "name": "rplcr",
   "version": "0.2.0",
-  "description": "replace html parts",
+  "description": "replace strings in files, with the cli",
   "main": "./src/index.js",
   "scripts": {
     "test": "node ./test/tests.js | tap-spec"
